@@ -91,19 +91,19 @@ export default function PortfolioComingSoon() {
         {/* Social Links */}
         <div className="flex items-center gap-6">
           <SocialLink
-            href="https://github.com"
+            href="https://github.com/Harshitshinde96"
             icon={<Github size={20} />}
             label="GitHub"
           />
           <SocialLink
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/harshitshinde96"
             icon={<Linkedin size={20} />}
             label="LinkedIn"
           />
           <SocialLink
-            href="https://twitter.com"
+            href="https://x.com/HarshitShinde96"
             icon={<Twitter size={20} />}
-            label="Twitter"
+            label="X (Twitter)"
           />
         </div>
       </div>
